@@ -1,0 +1,112 @@
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.exe
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.deps.json
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.runtimeconfig.json
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.pdb
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Properties.Resources.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.GenerateResource.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfoInputs.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfo.cs
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\refint\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.pdb
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.genruntimeconfig.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ref\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.MainLauncher.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.RegLostPassForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LostPassForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LoginForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.SearchResults.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModPage.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Publich.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.AssemblyReference.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxM.DC166C79.Up2Date
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Search.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModEditor.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.AssemblyReference.cache
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\refint\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.pdb
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.exe
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.deps.json
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.runtimeconfig.json
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.pdb
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LoginForm.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LostPassForm.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.MainLauncher.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModEditor.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModPage.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Properties.Resources.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Publich.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.RegLostPassForm.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Search.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.SearchResults.resources
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.GenerateResource.cache
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfoInputs.cache
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfo.cs
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.CoreCompileInputs.cache
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxM.DC166C79.Up2Date
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.genruntimeconfig.cache
+C:\Users\timpf\source\repos\$$$\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ref\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.exe
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.deps.json
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.runtimeconfig.json
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.pdb
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.AssemblyReference.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LoginForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LostPassForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.MainLauncher.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModEditor.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModPage.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Properties.Resources.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Publich.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.RegLostPassForm.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Search.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.SearchResults.resources
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.GenerateResource.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfoInputs.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfo.cs
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.CoreCompileInputs.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxM.DC166C79.Up2Date
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\refint\ParadoxModLauncher.dll
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.pdb
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.genruntimeconfig.cache
+E:\Visual Studio\ParadoxModLauncher\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ref\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.AssemblyReference.cache
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\refint\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.pdb
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.exe
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.deps.json
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.runtimeconfig.json
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.dll
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\ParadoxModLauncher.pdb
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LoginForm.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.LostPassForm.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.MainLauncher.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModEditor.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.ModPage.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Properties.Resources.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Publich.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.RegLostPassForm.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.Search.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.SearchResults.resources
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.GenerateResource.cache
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfoInputs.cache
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.AssemblyInfo.cs
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.csproj.CoreCompileInputs.cache
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxM.DC166C79.Up2Date
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ParadoxModLauncher.genruntimeconfig.cache
+C:\Users\timpf\source\repos\ParadoxModLauncher\ParadoxModLauncher\obj\Debug\net8.0-windows\ref\ParadoxModLauncher.dll

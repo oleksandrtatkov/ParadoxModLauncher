@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ModEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ModPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Publich.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SearchResults.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LostPassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainLauncher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegLostPassForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Resources\scripts\interface.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Resources\data\users.txt">
+      <SubType>Component</SubType>
+    </None>
+  </ItemGroup>
+</Project>
